@@ -8,3 +8,18 @@ description: |
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
+## About Me
+My names is **Alex Kuai**, and I am taking the Dr. Kane free R bootcamp course.
+
+## About the Project
+Fuel Efficiency and Car Weight
+This project shows the association between car weight and fuel efficiency
+
+### Goals
+* find the association(if any) between car weight and fuel efficiency
+  + What sort of association? Define association
+  
+"This is data science"  
+~Preceptor
+
+[Kane's Free High School Data Science Bootcamp](https://bootcamp.davidkane.info)

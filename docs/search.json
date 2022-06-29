@@ -5,8 +5,8 @@
       "title": "About this site",
       "description": "Some additional details about the website",
       "author": [],
-      "contents": "\n\n\n\n",
-      "last_modified": "2022-06-27T16:50:36-04:00"
+      "contents": "\nAbout Me\nMy names is Alex Kuai, and I am taking the Dr. Kane\nfree R bootcamp course.\nAbout the Project\nFuel Efficiency and Car Weight This project shows the association\nbetween car weight and fuel efficiency\nGoals\nfind the association(if any) between car weight and fuel efficiency\nWhat sort of association? Define association\n\n“This is data science”\n~Preceptor\nKane’s Free High School\nData Science Bootcamp\n\n\n\n",
+      "last_modified": "2022-06-29T12:44:43-04:00"
     },
     {
       "path": "index.html",
@@ -14,7 +14,35 @@
       "description": "Welcome to the website. I hope you enjoy it!\n",
       "author": [],
       "contents": "\n\n\n\n\n\n\n",
-      "last_modified": "2022-06-27T16:50:39-04:00"
+      "last_modified": "2022-06-29T12:44:46-04:00"
+    },
+    {
+      "path": "source_A.html",
+      "title": "Source B",
+      "description": "Detailed notes for Source A.\n",
+      "author": [
+        {
+          "name": "Alex Kuai",
+          "url": {}
+        }
+      ],
+      "date": "`r Sys.Date()`",
+      "contents": "\nDistill is a publication format for scientific and technical writing,\nnative to the web.\nLearn more about using Distill for R Markdown at https://rstudio.github.io/distill.\n\n\n\n",
+      "last_modified": "2022-06-29T12:44:46-04:00"
+    },
+    {
+      "path": "source_B.html",
+      "title": "Source A",
+      "description": "Detailed Notes for Source B.\n",
+      "author": [
+        {
+          "name": "Alex Kuai",
+          "url": {}
+        }
+      ],
+      "date": "`r Sys.Date()`",
+      "contents": "\nDistill is a publication format for scientific and technical writing,\nnative to the web.\nLearn more about using Distill for R Markdown at https://rstudio.github.io/distill.\n\n\n\n",
+      "last_modified": "2022-06-29T12:44:47-04:00"
     }
   ],
   "collections": []
